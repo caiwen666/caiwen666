@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**caiwen666/caiwen666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 个人简介 Profile
 
-Here are some ideas to get you started:
+- 全栈偏后端开发者。
+  - Full-stack developer with a backend focus.
+- 已经退役的 OI 和 ACM 选手。
+  - Former competitive programmer (OI and ACM)
+- 目前就读于湖南大学计算机科学与技术专业。
+  - Currently studying Computer Science at Hunan University.
+- 对计算机的基础架构相关方面感兴趣。
+  - Interested in computer architecture and low-level systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 开发概况 Development
+
+- 技术栈：Rust、C/C++、TypeScript。
+  - Tech stack: Rust, C/C++, TypeScript. 
+- 目前在湖南大学易千网络文化工作室担任技术部负责人，负责湖南大学微生活小程序的运维和研发。
+  - Currently serving as Head of the Technical Department at Hunan University Yiqian Studio, responsible for the operations and development of a Wechat mini app.
+
+## 联系方式
+
+- QQ：3102733279
+- 电子邮件：3102733279@qq.com
+  - Email: 3102733279@qq.com
