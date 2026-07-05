@@ -20,7 +20,7 @@
 - 目前在湖南大学易千网络文化工作室担任技术部负责人，负责湖南大学微生活小程序的运维和研发。
   - Currently serving as Head of the Technical Department at Hunan University Yiqian Studio, responsible for the operations and development of a Wechat mini app.
 
-## 联系方式
+## 联系方式 Contact
 
 - QQ：3102733279
 - 电子邮件：3102733279@qq.com
